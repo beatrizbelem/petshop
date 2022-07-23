@@ -73,7 +73,6 @@ function watch() {
     server: {
       baseDir: 'build',
     },
-    browser: 'google chrome',
     notify: false,
   })
 }
